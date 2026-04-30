@@ -27,11 +27,13 @@ TeamFlow is a scalable, full-stack Team Task Management application designed to 
 
 ## 📸 Screenshots
 
-> *Add screenshots of your application here after deployment.*
-
-| Dashboard View | Task Board |
+| Login | Dashboard |
 | :---: | :---: |
-| ![Dashboard Placeholder](https://via.placeholder.com/600x400?text=Dashboard+Screenshot) | ![Task Board Placeholder](https://via.placeholder.com/600x400?text=Task+Board+Screenshot) |
+| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+
+| Projects | Tasks |
+| :---: | :---: |
+| ![Projects](./screenshots/projects.png) | ![Tasks](./screenshots/tasks.png) |
 
 ## 🚀 Installation & Local Setup
 
