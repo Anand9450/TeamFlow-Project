@@ -29,15 +29,11 @@ TeamFlow is a scalable, full-stack Team Task Management application designed to 
 
 | Login | Dashboard |
 | :---: | :---: |
-| ![Login]<img width="1919" height="945" alt="Screenshot 2026-04-30 165629" src="https://github.com/user-attachments/assets/4acf4484-58e9-4a2d-bf4b-fe972d14a683" />
- | ![Dashboard]<img width="1919" height="946" alt="Screenshot 2026-04-30 165641" src="https://github.com/user-attachments/assets/e13e8e71-418c-4be1-a57d-8ca86be8221e" />
- |
+| <img width="1919" height="945" alt="Login" src="https://github.com/user-attachments/assets/4acf4484-58e9-4a2d-bf4b-fe972d14a683" /> | <img width="1919" height="946" alt="Dashboard" src="https://github.com/user-attachments/assets/e13e8e71-418c-4be1-a57d-8ca86be8221e" /> |
 
 | Projects | Tasks |
 | :---: | :---: |
-| ![Projects]<img width="1919" height="952" alt="Screenshot 2026-04-30 165651" src="https://github.com/user-attachments/assets/ec1b5ef3-0b8a-4f49-b32e-ab9f8ed007ac" />
- | ![Tasks]<img width="1919" height="951" alt="Screenshot 2026-04-30 165705" src="https://github.com/user-attachments/assets/a5d26c47-8171-447c-840c-fa0a354de5a3" />
- |
+| <img width="1919" height="952" alt="Projects" src="https://github.com/user-attachments/assets/ec1b5ef3-0b8a-4f49-b32e-ab9f8ed007ac" /> | <img width="1919" height="951" alt="Tasks" src="https://github.com/user-attachments/assets/a5d26c47-8171-447c-840c-fa0a354de5a3" /> |
 
 ## 🚀 Installation & Local Setup
 
